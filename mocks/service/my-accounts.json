@@ -1,0 +1,4 @@
+[
+    { "bankName": "토스", "bankImageUrl": "https://static.toss.im/tds/icon/png/4x/icn-bank-toss.png", "accountName": "토스머니", "accountBalance": 10010, "isChecked": false },
+    { "bankName": "하나", "bankImageUrl": "https://static.toss.im/tds/icon/png/4x/icn-bank-hana.png", "accountName": "내 주계좌", "accountBalance": 2343, "isChecked": false }
+]
